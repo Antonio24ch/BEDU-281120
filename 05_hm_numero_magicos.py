@@ -5,3 +5,4 @@
 #Convertir los num en enteros
 #Utilizando el numero del usuario, aplicar a la lista una multiplicacion por el numero del usuario
 #Coonvertir numeros pares a True
+
