@@ -27,6 +27,6 @@ def download_github_user_avatar(avatar_url, username):
 
 username = input('Give me a github username:\t')
 user = get_github_user(username)
-filename = download_github_user_avatar(user['avatar_url'], username)
+ilename = download_github_user_avatar(user['avatar_url'], username)
 print(filename)
 

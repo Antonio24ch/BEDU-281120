@@ -35,5 +35,3 @@ def pares(num):
 
 n_pares = list(map(pares,tabla))
 print(n_pares)
-
-
