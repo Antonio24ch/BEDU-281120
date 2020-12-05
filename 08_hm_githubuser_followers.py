@@ -1,3 +1,5 @@
+#Un bot que te de los seguidores del usuario y después te descargue la imagen de esos seguidores
+
 import requests
 # CONSTANTS
 BASE_URL = 'https://api.github.com/'
